@@ -1,2 +1,2 @@
 # flask_ttrl
-The flask tutorial from the official website
+The flask tutorial from udemy https://www.udemy.com/course/fastapi-the-complete-course/
